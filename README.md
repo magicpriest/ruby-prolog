@@ -12,12 +12,12 @@ ruby_prolog
 
 == FEATURES/PROBLEMS:
 
-* Pure Ruby.
-* Tested with Ruby 1.8.7 (MRI). 
-* Object-oriented.
-* Multiple Prolog environments can be created and manipulated simultaneously.
-* Concurrent access to different core instances should be safe.
-* Concurrent access to a single core instance might probably explode in odd ways.
+* Pure Ruby,
+* Tested with Ruby 1.9.3,
+* Object-oriented,
+* Multiple Prolog environments can be created and manipulated simultaneously,
+* Concurrent access to different core instances should be safe,
+* Concurrent access to a single core instance might probably explode in odd ways;
 
 == SYNOPSIS:
 
