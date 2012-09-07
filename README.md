@@ -1,10 +1,8 @@
 ruby_prolog
     by Preston Lee
     http://openrain.com
-	The core engine is largely based on tiny_prolog, though numerous additional enhancements have been made
-	such as object-oriented refactorings and integration of ideas from the interwebs. Unfortunately I cannot
-	read Japanese and cannot give proper attribution to the original tiny_prolog author. If *you* can, let
-	me know and I'll update this document!
+	forked by Maks Kukarin
+	I'm just updating and fixing all bugs in this nice and proper editing;
 
 == DESCRIPTION:
 
@@ -29,29 +27,17 @@ ruby_prolog
 
 == INSTALL:
 
+Debain-distros like installation:
 * sudo gem install ruby-prolog
+
+Windows installation: 
+* ruby gem install ruby-prolog
+
+Mac OS X installation not tested yet
 
 == LICENSE:
 
-(The MIT License)
+--
 
-Copyright (c) 2008 OpenRain, LLC
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-'Software'), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+== TODO:
+add license information;
