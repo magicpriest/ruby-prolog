@@ -6,7 +6,7 @@ ruby_prolog
 
 == DESCRIPTION:
 
-	An object-oriented pure Ruby implementation of a Prolog-like DSL for easy AI and logical programming.
+An object-oriented pure Ruby implementation of a Prolog-like DSL for easy AI and logical programming.
 
 == FEATURES/PROBLEMS:
 
@@ -36,8 +36,7 @@ Windows installation:
 Mac OS X installation not tested yet
 
 == LICENSE:
-
---
+////
 
 == TODO:
 add license information;
