@@ -29,7 +29,7 @@ ruby_prolog
 
 == INSTALL:
 
-* sudo gem install ruby_prolog
+* sudo gem install ruby-prolog
 
 == LICENSE:
 
